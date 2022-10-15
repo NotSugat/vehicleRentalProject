@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
+<<<<<<< HEAD
         <file>components/adminUi/header.qml</file>
         <file>components/adminUi/HomeIcon.qml</file>
         <file>components/adminUi/Icon.qml</file>
@@ -15,6 +16,21 @@
         <file>images/home.png</file>
         <file>images/kulogo.jpg</file>
         <file>images/logo.png</file>
+=======
+        <file>images/logo.png</file>
+        <file>login.qml</file>
+        <file>loginTest.qml</file>
+        <file>components/CircularProgressBar.qml</file>
+        <file>components/CustomButton.qml</file>
+        <file>components/CustomTextField.qml</file>
+        <file>signUp.qml</file>
+        <file>components/signupUi/SignupNav.qml</file>
+        <file>signUpFinal.qml</file>
+        <file>adminPanel.qml</file>
+        <file>images/email.png</file>
+        <file>images/home.png</file>
+        <file>images/kulogo.jpg</file>
+>>>>>>> a0bc0b29d7c041fcf7fc70f29863831e9a14246a
         <file>images/megaphone.png</file>
         <file>images/menu.png</file>
         <file>images/pie-chart.png</file>
@@ -22,6 +38,7 @@
         <file>images/telephone.png</file>
         <file>images/trash-can.png</file>
         <file>images/user.png</file>
+<<<<<<< HEAD
         <file>adminPanel.qml</file>
         <file>login.qml</file>
         <file>loginTest.qml</file>
@@ -36,5 +53,14 @@
         <file>components/BookButton.qml</file>
         <file>images/groupUser.png</file>
         <file>images/group.png</file>
+=======
+        <file>components/signupUi/navbar.qml</file>
+        <file>components/adminUi/Icon.qml</file>
+        <file>components/adminUi/HomeIcon.qml</file>
+        <file>components/Sidebar.qml</file>
+        <file>images/dashboard.png</file>
+        <file>components/adminUi/Header.qml</file>
+        <file>components/Header.qml</file>
+>>>>>>> a0bc0b29d7c041fcf7fc70f29863831e9a14246a
     </qresource>
 </RCC>
